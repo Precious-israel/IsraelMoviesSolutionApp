@@ -1,0 +1,50 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains IDE
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Log files
+*.log
+
+# ASP.NET temporary files
+*.vs/
+*.dbmdl
+*.pdb
+
+# Publish output
+publish/
+*.publish.xml
+
+# Package directories
+packages/
+*.nupkg
+
+# npm / Node
+node_modules/
+
+# Resharper
+_ReSharper*/
+
+# DotCover
+*.dotCover
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# EF Core Migrations history (optional if you don’t want to track it)
+Migrations/
